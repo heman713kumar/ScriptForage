@@ -1,0 +1,7 @@
+{
+  "name": "ScriptForge",
+  "description": "A blockchain-verified script marketplace connecting writers and filmmakers with AI-assisted creation tools.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
